@@ -1,0 +1,6 @@
+rapid-ftr-app/bin/
+rapid-ftr-app/target/
+rapid-ftr-test/bin/
+rapid-ftr-test/target/
+rapid-ftr-app/.classpath
+rapid-ftr-test/.classpath
